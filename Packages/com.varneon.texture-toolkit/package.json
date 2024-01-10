@@ -1,0 +1,12 @@
+{
+  "name": "com.varneon.texture-toolkit",
+  "version": "0.1.0-alpha.1",
+  "description": "A wide range of tools for managing textures in Unity Editor",
+  "displayName": "Texture Toolkit",
+  "author": {
+    "name": "Varneon",
+    "url": "https://github.com/Varneon"
+  },
+  "unity": "2019.4",
+  "unityRelease": "29f1"
+}
